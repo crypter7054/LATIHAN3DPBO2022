@@ -8,12 +8,12 @@
 Saya Yosafat (2009929) mengerjakan evaluasi Latihan 3 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Soal
-_Buatlah program dalam bahasa C++ untuk menampilkan spek pc beserta harga nya. Dengan ketentuan kelas dan atributnya sebagai berikut:
-_- Processor : name, price
-_- Disk : type(SDD/HDD), capacity, price
-_- Ram : capacity, price
-_- Pc : processor, disk, ram, totalPrice
-_- kelas Pc akan memuat ketiga kelas lainnya sebagai atribut.
+_Buatlah program dalam bahasa C++ untuk menampilkan spek pc beserta harga nya. Dengan ketentuan kelas dan atributnya sebagai berikut:_
+_- Processor : name, price_
+_- Disk : type(SDD/HDD), capacity, price_
+_- Ram : capacity, price_
+_- Pc : processor, disk, ram, totalPrice_
+_- kelas Pc akan memuat ketiga kelas lainnya sebagai atribut._
 
 ### Analisis
 
